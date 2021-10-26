@@ -1,0 +1,2 @@
+# Amostragem
+Amostragem Diversas 
