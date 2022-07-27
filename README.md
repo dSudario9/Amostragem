@@ -1,2 +1,2 @@
-# Amostragem
+# Amostragem Estatistica 
 Amostragem Diversas 
